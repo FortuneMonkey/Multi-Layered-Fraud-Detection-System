@@ -1,0 +1,9 @@
+Transaction Amount,Quantity,Customer Age,Account Age Days,Transaction Hour,Payment Method,Product Category,Device Used,Customer Location,Transaction Year,Transaction Month,Transaction Day,Fraud_Prediction,Fraud_Probability,Analyzed_At
+145.5,2,42,380,20,credit card,home & garden,mobile,-1.0,2025,7,19,Legitimate,4.28%,2025-07-19 21:48:05
+25.0,1,58,500,11,debit card,health & beauty,tablet,-1.0,2025,7,19,Legitimate,4.37%,2025-07-19 21:49:31
+899.99,1,25,1,4,credit card,electronics,desktop,-1.0,2025,7,19,Fraudulent,96.58%,2025-07-19 21:50:01
+1200.0,2,31,15,1,debit card,electronics,desktop,-1.0,2025,7,19,Fraudulent,96.56%,2025-07-19 21:50:36
+145.5,2,42,380,5,credit card,home & garden,mobile,-1.0,2025,7,19,Legitimate,6.74%,2025-07-19 23:30:03
+145.5,2,42,380,12,credit card,home & garden,mobile,-1.0,2025,7,19,Legitimate,4.32%,2025-07-19 23:31:11
+145.5,1,42,500,12,debit card,health & beauty,tablet,-1.0,2025,7,19,Legitimate,4.48%,2025-07-19 23:31:55
+1200.0,2,31,15,1,debit card,electronics,desktop,-1.0,2025,7,20,Fraudulent,96.57%,2025-07-20 00:17:01
