@@ -1,10 +1,11 @@
 streamlit
 pandas
+numpy
+joblib
+scikit-learn
 shap
 matplotlib
-joblib
-numpy
 plotly
+fpdf
 streamlit-extras
 streamlit-option-menu
-scikit-learn
